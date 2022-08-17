@@ -20,3 +20,14 @@
   url: "about"
 - title: "News"
   url: "news"
+- title: "Markdown 编辑工具"
+  url: "pages/1. Welcome to Joplin!"
+  children:
+    - title: Importing and exporting notes
+      url: "pages/2. Importing and exporting notes"
+    - title: Synchronising your notes
+      url: "pages/3. Synchronising your notes"
+    - title: Tips
+      url: "pages/4. Tips"
+    - title: Joplin Privacy Policy
+      url: "pages/5. Joplin Privacy Policy"
