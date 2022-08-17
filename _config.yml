@@ -28,9 +28,9 @@ baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/mkdocs-jekyll"
+repo: "https://github.com/ThemistoclesEmden/lab-wiki-test"
 github_user: "lab wiki test"
-github_repo: "mkdocs-jekyll"
+github_repo: "lab-wiki-test"
 
 # Optional
 twitter: 
